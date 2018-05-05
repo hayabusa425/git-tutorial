@@ -3,3 +3,4 @@
 ### Git Tutorial 2
 
 * feature-A
+* fix-B
